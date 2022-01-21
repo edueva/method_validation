@@ -1,2 +1,2 @@
 # method_validation
-Notebook to calculate parameters during biological method validation according to EMA and FDA guidelines
+A tool for assessing the compliance of the developed analytical methodology parameters with the standards of the European and American regulators
